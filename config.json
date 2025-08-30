@@ -1,0 +1,13 @@
+{
+  "products": [ "T-Shirt", "Flashlight", "Backpack" ],
+  "tax": 0.08,
+  "user": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "checkoutInfo": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "zip": "12345"
+  }
+}

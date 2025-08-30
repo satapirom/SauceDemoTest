@@ -1,0 +1,33 @@
+{
+  "baseUrl": {
+    "url": "https://www.saucedemo.com/"
+  },
+  "User": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    }
+  ],
+  "Product": [
+    {
+      "tshirt": "T-Shirt",
+      "tshirt1": "T-Shirt",
+      "backpack": "Backpack",
+      "flashlight": "Flashlight"
+    }
+  ],
+  "Checkout": [
+    {
+      "firstname": "Satapi",
+      "lastname": "Khawatthu",
+      "postalcode": "62000"
+    }
+  ],
+  "prices": [
+    {
+      "itemtotal": 31.98,
+      "tax": 2.56,
+      "total": 34.54
+    }
+  ]
+}
