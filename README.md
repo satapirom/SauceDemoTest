@@ -22,14 +22,14 @@ dotnet build
 dotnet test
 
 ### โครงสร้างโปรเจกต์
-Pages/ - Page Object Model
-Tests/ - Test Cases
-data.json - ข้อมูลสำหรับรันเทสต์ (Copy อัตโนมัติไป Output)
+- Pages/ - Page Object Model
+- Tests/ - Test Cases
+- data.json - ข้อมูลสำหรับรันเทสต์ (Copy อัตโนมัติไป Output)
 
 ### Packages 
-Selenium.WebDriver --	ควบคุมเว็บเบราว์เซอร์
-DotNetSeleniumExtras.WaitHelpers	-- จัดการ Explicit Wait
-NUnit	Framework -- เขียน Test
-NUnit3TestAdapter	Visual Studio -- รัน NUnit Test
-coverlet.collector --	เก็บ Code Coverage
-NUnit.Analyzers	-- ตรวจสอบคุณภาพโค้ด Test
+- Selenium.WebDriver --	ควบคุมเว็บเบราว์เซอร์
+- DotNetSeleniumExtras.WaitHelpers	-- จัดการ Explicit Wait
+- NUnit	Framework -- เขียน Test
+- NUnit3TestAdapter	Visual Studio -- รัน NUnit Test
+- coverlet.collector --	เก็บ Code Coverage
+- NUnit.Analyzers	-- ตรวจสอบคุณภาพโค้ด Test
